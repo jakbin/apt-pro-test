@@ -1,7 +1,6 @@
 import argparse
 from .main import *
 
-__version__ = "1.0.5"
 package_name = "apt-pro"
 
 example_uses = '''example:
